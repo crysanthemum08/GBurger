@@ -1,5 +1,5 @@
 # GBurger
-POS and Queueing System for a restaurant
+GARA's Burger POS and Queueing Management System
 
 
 ![Homepage](src/g1.png)
