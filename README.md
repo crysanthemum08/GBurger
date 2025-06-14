@@ -1,5 +1,4 @@
 # GBurger
-GARA's Burger POS and Queueing Management System
 
 # 🍔 GARA's Burger POS and Queueing Management System
 
